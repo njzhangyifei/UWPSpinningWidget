@@ -1,6 +1,8 @@
-# A Spinning Widget featuring Voice Commands
+# A UWP Spinning Widget featuring Voice Commands
 
-This repository contains the visual studio solution for a spinning widget.
+This repository contains the visual studio solution for a universal windows app, a spinning widget.
+
+See it in action => [youtube](https://youtu.be/bgD_J5u9lhM)
 
 ## Voice Control
 Try to say the following commands
